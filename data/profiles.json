@@ -1,0 +1,450 @@
+[
+  {
+    "id": "p1",
+    "name": "Aanya",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/women/10.jpg",
+    "bio": "Coffee first, conversations after.",
+    "place": "Delhi - Miranda House",
+    "interests": [
+      "Travel",
+      "Fitness",
+      "Reading"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p2",
+    "name": "Rohan",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/men/11.jpg",
+    "bio": "Weekend trekker, weekday overthinker.",
+    "place": "Gurgaon - Ashoka University",
+    "interests": [
+      "Music",
+      "Photography",
+      "Gaming"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p3",
+    "name": "Meera",
+    "age": 25,
+    "photo": "https://randomuser.me/api/portraits/women/12.jpg",
+    "bio": "Will trade playlists for good food recs.",
+    "place": "Mumbai - St. Xavier's",
+    "interests": [
+      "Coding",
+      "Cooking",
+      "Art"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p4",
+    "name": "Kabir",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/men/13.jpg",
+    "bio": "Building things and breaking things.",
+    "place": "Bangalore - PES University",
+    "interests": [
+      "Movies",
+      "Reading",
+      "Football"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p5",
+    "name": "Ishita",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/women/14.jpg",
+    "bio": "Looking for someone to explore new cafes with.",
+    "place": "Pune - Symbiosis",
+    "interests": [
+      "Fitness",
+      "Gaming",
+      "Cafes"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p6",
+    "name": "Arjun",
+    "age": 25,
+    "photo": "https://randomuser.me/api/portraits/men/15.jpg",
+    "bio": "Dog person. Sunsets. Bad puns.",
+    "place": "Chandigarh - Panjab University",
+    "interests": [
+      "Photography",
+      "Art",
+      "Travel"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p7",
+    "name": "Tara",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/women/16.jpg",
+    "bio": "Always up for a spontaneous road trip.",
+    "place": "Delhi - LSR",
+    "interests": [
+      "Cooking",
+      "Football",
+      "Music"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p8",
+    "name": "Vihaan",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/men/17.jpg",
+    "bio": "Bookworm with a gym membership I actually use.",
+    "place": "Noida - Amity",
+    "interests": [
+      "Reading",
+      "Cafes",
+      "Coding"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p9",
+    "name": "Sanya",
+    "age": 25,
+    "photo": "https://randomuser.me/api/portraits/women/18.jpg",
+    "bio": "Coffee first, conversations after.",
+    "place": "Jaipur - MNIT",
+    "interests": [
+      "Gaming",
+      "Travel",
+      "Movies"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p10",
+    "name": "Dev",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/men/19.jpg",
+    "bio": "Weekend trekker, weekday overthinker.",
+    "place": "Delhi - DTU",
+    "interests": [
+      "Art",
+      "Music",
+      "Fitness"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p11",
+    "name": "Riya",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/women/20.jpg",
+    "bio": "Will trade playlists for good food recs.",
+    "place": "Hyderabad - IIIT-H",
+    "interests": [
+      "Football",
+      "Coding",
+      "Photography"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p12",
+    "name": "Aarav",
+    "age": 25,
+    "photo": "https://randomuser.me/api/portraits/men/21.jpg",
+    "bio": "Building things and breaking things.",
+    "place": "Chennai - SRM",
+    "interests": [
+      "Cafes",
+      "Movies",
+      "Cooking"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p13",
+    "name": "Kiara",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/women/22.jpg",
+    "bio": "Looking for someone to explore new cafes with.",
+    "place": "Gurgaon - Manipal",
+    "interests": [
+      "Travel",
+      "Fitness",
+      "Reading"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p14",
+    "name": "Ayaan",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/men/23.jpg",
+    "bio": "Dog person. Sunsets. Bad puns.",
+    "place": "Delhi - St. Stephen's",
+    "interests": [
+      "Music",
+      "Photography",
+      "Gaming"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p15",
+    "name": "Diya",
+    "age": 25,
+    "photo": "https://randomuser.me/api/portraits/women/24.jpg",
+    "bio": "Always up for a spontaneous road trip.",
+    "place": "Kolkata - Presidency",
+    "interests": [
+      "Coding",
+      "Cooking",
+      "Art"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p16",
+    "name": "Reyansh",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/men/25.jpg",
+    "bio": "Bookworm with a gym membership I actually use.",
+    "place": "Bangalore - Christ University",
+    "interests": [
+      "Movies",
+      "Reading",
+      "Football"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p17",
+    "name": "Navya",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/women/26.jpg",
+    "bio": "Coffee first, conversations after.",
+    "place": "Amritsar - GNDU",
+    "interests": [
+      "Fitness",
+      "Gaming",
+      "Cafes"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p18",
+    "name": "Karan",
+    "age": 25,
+    "photo": "https://randomuser.me/api/portraits/men/27.jpg",
+    "bio": "Weekend trekker, weekday overthinker.",
+    "place": "Ludhiana - PAU",
+    "interests": [
+      "Photography",
+      "Art",
+      "Travel"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p19",
+    "name": "Pooja",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/women/28.jpg",
+    "bio": "Will trade playlists for good food recs.",
+    "place": "Lucknow - Lucknow University",
+    "interests": [
+      "Cooking",
+      "Football",
+      "Music"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p20",
+    "name": "Samar",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/men/29.jpg",
+    "bio": "Building things and breaking things.",
+    "place": "Mumbai - NMIMS",
+    "interests": [
+      "Reading",
+      "Cafes",
+      "Coding"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p21",
+    "name": "Anika",
+    "age": 25,
+    "photo": "https://randomuser.me/api/portraits/women/30.jpg",
+    "bio": "Looking for someone to explore new cafes with.",
+    "place": "Delhi - Hindu College",
+    "interests": [
+      "Gaming",
+      "Travel",
+      "Movies"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p22",
+    "name": "Yash",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/men/31.jpg",
+    "bio": "Dog person. Sunsets. Bad puns.",
+    "place": "Pune - COEP",
+    "interests": [
+      "Art",
+      "Music",
+      "Fitness"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p23",
+    "name": "Myra",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/women/32.jpg",
+    "bio": "Always up for a spontaneous road trip.",
+    "place": "Chandigarh - PEC",
+    "interests": [
+      "Football",
+      "Coding",
+      "Photography"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p24",
+    "name": "Neil",
+    "age": 25,
+    "photo": "https://randomuser.me/api/portraits/men/33.jpg",
+    "bio": "Bookworm with a gym membership I actually use.",
+    "place": "Gurgaon - IMT",
+    "interests": [
+      "Cafes",
+      "Movies",
+      "Cooking"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p25",
+    "name": "Zoya",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/women/34.jpg",
+    "bio": "Coffee first, conversations after.",
+    "place": "Bhopal - MANIT",
+    "interests": [
+      "Travel",
+      "Fitness",
+      "Reading"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p26",
+    "name": "Aditya",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/men/35.jpg",
+    "bio": "Weekend trekker, weekday overthinker.",
+    "place": "Delhi - IIT Delhi",
+    "interests": [
+      "Music",
+      "Photography",
+      "Gaming"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p27",
+    "name": "Saanvi",
+    "age": 25,
+    "photo": "https://randomuser.me/api/portraits/women/36.jpg",
+    "bio": "Will trade playlists for good food recs.",
+    "place": "Mumbai - Mithibai",
+    "interests": [
+      "Coding",
+      "Cooking",
+      "Art"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p28",
+    "name": "Ishaan",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/men/37.jpg",
+    "bio": "Building things and breaking things.",
+    "place": "Bangalore - RV College",
+    "interests": [
+      "Movies",
+      "Reading",
+      "Football"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p29",
+    "name": "Pari",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/women/38.jpg",
+    "bio": "Looking for someone to explore new cafes with.",
+    "place": "Jaipur - Banasthali",
+    "interests": [
+      "Fitness",
+      "Gaming",
+      "Cafes"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p30",
+    "name": "Veer",
+    "age": 25,
+    "photo": "https://randomuser.me/api/portraits/men/39.jpg",
+    "bio": "Dog person. Sunsets. Bad puns.",
+    "place": "Noida - JIIT",
+    "interests": [
+      "Photography",
+      "Art",
+      "Travel"
+    ],
+    "likesMe": false
+  },
+  {
+    "id": "p31",
+    "name": "Nisha",
+    "age": 19,
+    "photo": "https://randomuser.me/api/portraits/women/40.jpg",
+    "bio": "Always up for a spontaneous road trip.",
+    "place": "Delhi - JNU",
+    "interests": [
+      "Cooking",
+      "Football",
+      "Music"
+    ],
+    "likesMe": true
+  },
+  {
+    "id": "p32",
+    "name": "Rudra",
+    "age": 22,
+    "photo": "https://randomuser.me/api/portraits/men/41.jpg",
+    "bio": "Bookworm with a gym membership I actually use.",
+    "place": "Chandigarh - Chitkara",
+    "interests": [
+      "Reading",
+      "Cafes",
+      "Coding"
+    ],
+    "likesMe": false
+  }
+]
